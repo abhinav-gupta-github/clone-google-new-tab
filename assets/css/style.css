@@ -1,0 +1,111 @@
+.material-symbols-outlined {
+  font-variation-settings: "FILL" 0, "wght" 400, "GRAD" 0, "opsz" 48;
+}
+.header{
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    font-family: arial,sans-serif;
+    padding-right: 5px 15px;
+}
+.login-image{
+    border-radius: 50%;
+    padding-left: 10px;
+    padding-right: 10px;
+    cursor: pointer;
+}
+div span{
+    padding: 10px;
+    font: 13px/27px Roboto,Arial,sans-serif;
+}
+.G{
+    font-size: 100px;
+    font-family: system-ui;
+    font-weight: 500;
+    color: #1a6dde;
+}
+.o1{
+    font-size: 78px;
+    font-family: system-ui;
+    font-weight: 500;
+    color: red;
+}
+.o2{
+    font-size: 78px;
+    font-family: system-ui;
+    font-weight: 500;
+    color: orange;
+}
+.g{
+    font-size: 78px;
+    font-family: system-ui;
+    font-weight: 500;
+    color: #1a6dde;
+}
+.l{
+    font-size: 78px;
+    font-family: system-ui;
+    font-weight: 500;
+    color: rgb(77, 151, 77);
+}
+.e{
+    font-size: 78px;
+    font-family: system-ui;
+    font-weight: 500;
+    color:red;
+}
+.G, .o1, .o2, .g, .l, .e{
+    margin: -12px;
+}
+.google-logo-style{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 100px;
+}
+.search-main-div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.search-div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border:  1px solid rgb(160, 160, 160);
+    border-radius: 40px;
+}
+ul{
+    list-style-type: none;
+}
+ul > li > span{
+    background-color: rgb(237 237 237 / 95%);
+    border-radius: 50%;
+}
+.shortcut-icons{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.icon-center{
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    padding: 10px;
+}
+.icon-center :hover{
+    background-color: rgb(228, 222, 222);
+}
+ul{
+    padding: 10px;
+}
+input{
+    font-size: inherit;
+    border: none;
+}
+.pointer{
+    cursor: pointer;
+    margin: 2px;
+}
